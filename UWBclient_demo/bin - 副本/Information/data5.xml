@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User>
+    <name>xuwei</name>
+    <sex>male</sex>
+    <age>25</age>
+  </User>
+  <User>
+    <name>xiaolai</name>
+    <sex>female</sex>
+    <age>23</age>
+  </User>
+</Users>
